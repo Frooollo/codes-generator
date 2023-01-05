@@ -1,0 +1,32 @@
+{
+  "name": "codes-generator",
+  "version": "1.0.1",
+  "description": "An NPM package for generating random codes",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CiccioFrollo/codes-generator.git"
+  },
+  "keywords": [
+    "codes-generator",
+    "code-generator",
+    "random-code-generator",
+    "random-codes-generator",
+    "random-code",
+    "random-codes",
+    "random-strings",
+    "random-numbers",
+    "random-symbols",
+    "random-passwords",
+    "password-generator",
+    "random-string-generator",
+    "random-number-generator",
+    "random-symbol-generator"
+  ],
+  "author": "CiccioFrollo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CiccioFrollo/codes-generator/issues"
+  },
+  "homepage": "https://github.com/CiccioFrollo/codes-generator#readme"
+}
