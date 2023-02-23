@@ -20,8 +20,7 @@ const { generate } = require("codes-generator");
 
 ```js
 console.log(
-  generate({
-    length: 10,
+  generate(10, {
     upperLetters: true,
     lowerLetters: true,
     numbers: true,
@@ -46,8 +45,7 @@ console.log(
 const { generate } = require("codes-generator");
 
 console.log(
-  generate({
-    length: 20,
+  generate(20, {
     lowerLetters: false,
     upperLetters: true,
     numbers: false,
